@@ -1,0 +1,16 @@
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.exe
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.deps.json
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.json
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.dll
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\bin\Debug\net5.0\ref\PrimeiroProjeto.dll
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.pdb
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.dll
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\ref\PrimeiroProjeto.dll
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.pdb
+C:\dev-almeida\web 2023\projetos c#\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.genruntimeconfig.cache
