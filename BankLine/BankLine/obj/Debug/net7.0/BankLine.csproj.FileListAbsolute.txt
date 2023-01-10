@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\bin\Debug\net7.0\BankLine.exe
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\bin\Debug\net7.0\BankLine.deps.json
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\bin\Debug\net7.0\BankLine.runtimeconfig.json
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\bin\Debug\net7.0\BankLine.dll
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\bin\Debug\net7.0\BankLine.pdb
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.dll
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\refint\BankLine.dll
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.pdb
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\BankLine.genruntimeconfig.cache
+C:\Users\Marcelo\Desktop\git\Projetos c#\BankLine\BankLine\obj\Debug\net7.0\ref\BankLine.dll
